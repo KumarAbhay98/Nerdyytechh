@@ -81,8 +81,8 @@ https://user-images.githubusercontent.com/92244303/190205405-7964ba8c-6a60-401e-
 <br>
 <br>
 
-<div align="left" style="padding-left:20px">
-  <img src="https://www.bing.com/th/id/OGC.1f9e5c55ca9dc8ab5b162334dde3a61d?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f165%2f16529.gif&ehk=zo%2fWENyZ8c7amBDwkJ94rt%2f78ds97XAsMZkgiYvHla8%3d">
+<div align="center">
+  <img src="https://www.bing.com/th/id/OGC.1f9e5c55ca9dc8ab5b162334dde3a61d?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f165%2f16529.gif&ehk=zo%2fWENyZ8c7amBDwkJ94rt%2f78ds97XAsMZkgiYvHla8%3d" width="500px" height="500px">
 
 </div>
 </div>
