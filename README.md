@@ -7,7 +7,7 @@
 <li>SignUp</li>
 </ul>
 
-<h3>I used following below mentioned:</h3>
+<h3>Stacks Used are mentioned below:</h3>
 <ol>
 <li>HTML</li>
 <li>CSS</li>
