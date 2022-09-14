@@ -19,7 +19,7 @@
 
 <div align="center">
 <h3 align="center">More.....</h3>
-  <h4>The Link of the Website:-<a target="_blank" href="https://nerddytechh.netlify.app/">https://nerddytechh.netlify.app/</a></h4>
+  <h4>The Link of the Website:-<a target="_blank" href="https://nerddytechh.netlify.app/">https://nerddytechh.com</a></h4>
 <p>This website is full dedicated to the solution of the problems faced by students. The problems could be of any type whether it is related to <b> Academics, Mental Health or Physical Health. </b>It has few sections like: "Tech-dive"(It helps to make you updated with latest technologies and tools and "blogs"(In this I encountered topics like:-Procrastination, pschycological problems and much more.The Website is fully Responsive. To make it more attractive I included several animated sections using javascript and css very efficiently. </p>
 </div>
 
