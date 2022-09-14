@@ -66,6 +66,23 @@ https://user-images.githubusercontent.com/92244303/190201554-7540ffc4-6ef2-409c-
 
 https://user-images.githubusercontent.com/92244303/190201956-1fb7e8b7-ed01-4706-b430-657aa93526ee.mp4
 
+<hr>
+<hr>
+  <h2>It is completely responsive and I deployed it over "Netlify" <img src="https://www.bing.com/th/id/OGC.25cb6a48c668364fbbc15d87e2332db6?pid=1.7&rurl=http%3a%2f%2fwww.netanimations.net%2ffile00466.gif&ehk=gVrCHTv12pYjTasurcsy9sNZ3VMp4y9IzP03M%2fpcXgc%3d" width:5px;height:5px;></h2>
+  
 
+
+
+https://user-images.githubusercontent.com/92244303/190205405-7964ba8c-6a60-401e-bedf-4287ec079dab.mp4
+
+
+
+<br>
+<br>
+
+<div align="left" style="padding-left:20px">
+  <img src="https://www.bing.com/th/id/OGC.1f9e5c55ca9dc8ab5b162334dde3a61d?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f165%2f16529.gif&ehk=zo%2fWENyZ8c7amBDwkJ94rt%2f78ds97XAsMZkgiYvHla8%3d">
+
+</div>
 </div>
 
