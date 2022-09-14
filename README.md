@@ -26,32 +26,41 @@
 <h3>Sections of My website(i.e Nerdy)</h3>
 
 <div align="center">
-  <h2>Home Page</h2>
+  <h2>Home Page <img src="https://www.bing.com/th/id/OGC.25cb6a48c668364fbbc15d87e2332db6?pid=1.7&rurl=http%3a%2f%2fwww.netanimations.net%2ffile00466.gif&ehk=gVrCHTv12pYjTasurcsy9sNZ3VMp4y9IzP03M%2fpcXgc%3d" width:5px;height:5px;></h2>
+  <p align="center"><b>This is the homepage of my website which has this and eye catching animated background which totally goes with the whole color scheme. It has sections like "Tech-dive"(for tech-arcticles) and "blogs"(for reading enthusiast). It has carousel(slide-show) which is full of information and buttons. Click On those buttons and see the magic.I used bootstrap5 for some of the sections along with jquery and css to make them more interesting.</b></p>
   
 
 
 https://user-images.githubusercontent.com/92244303/190200411-3c3e257b-e472-49d6-a55a-a9aac7be9308.mp4
+  
+  <hr>
+  <hr>
 
   
-  <h2>About</h2>
-  <p align="center">This is About page of nerdy in which you can read the whole backstory behind the idea of this website. I also covered my journey of learning webd</P>
+  <h2>About <img src="https://www.bing.com/th/id/OGC.25cb6a48c668364fbbc15d87e2332db6?pid=1.7&rurl=http%3a%2f%2fwww.netanimations.net%2ffile00466.gif&ehk=gVrCHTv12pYjTasurcsy9sNZ3VMp4y9IzP03M%2fpcXgc%3d" width:5px;height:5px;></h2>
+  <p align="center"><b>This is About page of nerdy in which you can read the whole backstory behind the idea of this website. I also covered my journey of learning webd</b></P>
   
 
 
 
 https://user-images.githubusercontent.com/92244303/190201169-49e11f07-5a83-4bad-b972-56a666b068b8.mp4
+<hr>
+  <hr>
 
  
- <h2>Sign Up</h2>
- <p align="center">This is the Sign Up page having a beautiful rainbow image as a cover. It is without backend but soon I'll complete it too.</P>
+ <h2>Sign Up <img src="https://www.bing.com/th/id/OGC.25cb6a48c668364fbbc15d87e2332db6?pid=1.7&rurl=http%3a%2f%2fwww.netanimations.net%2ffile00466.gif&ehk=gVrCHTv12pYjTasurcsy9sNZ3VMp4y9IzP03M%2fpcXgc%3d" width:5px;height:5px;></h2>
+ <p align="center"><b>This is the Sign Up page having a beautiful rainbow image as a cover.Moreover, It has this beautiful animated background behind image which is completely coded in javasrcipt. It is without backend but soon I'll complete it too.</b></P>
 
 
 
 https://user-images.githubusercontent.com/92244303/190201554-7540ffc4-6ef2-409c-abe8-21fcb93f14bf.mp4
 
+<hr>
+  <hr>
+
   
-  <h2>Login</h2>
-  <p align="center">This is the Login page in which I used animations also it has gradient background which looks perfect along with an offcanvas navbar. Again its also with backend but soon I will complete it for sure.</P>
+  <h2>Login <img src="https://www.bing.com/th/id/OGC.25cb6a48c668364fbbc15d87e2332db6?pid=1.7&rurl=http%3a%2f%2fwww.netanimations.net%2ffile00466.gif&ehk=gVrCHTv12pYjTasurcsy9sNZ3VMp4y9IzP03M%2fpcXgc%3d" width:5px;height:5px;></h2>
+  <p align="center"><b>This is the Login page in which I used animations also it has gradient background which looks perfect along with an offcanvas navbar. Again its also with backend but soon I will complete it for sure.</b></P>
 
 
 
